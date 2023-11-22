@@ -13,4 +13,10 @@ The tools used are:
 - Toast [Error handling]
 - Redux-Toolkit [State handling]
 
+Functionality of this project:
+- Create users by hitting the register button (with validation to be unable to access registering while logged in)
+- Able to populate form and page with user details (bcrypt employed to keep the password safe and JWT cookie used to store the user's session)
+- Update existing user info (a page only accessible once logged in)
+- Delete an existing user as well as logout (which deletes the JWT cookie storing your session)
+
 Coded along to https://www.youtube.com/watch?v=R4AhvYORZRY
