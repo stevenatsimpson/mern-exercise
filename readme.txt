@@ -12,3 +12,5 @@ The tools used are:
 - Cookie-parser [Passwords stored in cookies]
 - Toast [Error handling]
 - Redux-Toolkit [State handling]
+
+Coded along to https://www.youtube.com/watch?v=R4AhvYORZRY
